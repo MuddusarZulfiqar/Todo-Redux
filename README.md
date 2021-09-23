@@ -1,6 +1,12 @@
+## REACT | REDUX | FIREBASE
+
+Todo App
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Demo [https://todo-auth-3f9ef.web.app/](https://todo-auth-3f9ef.web.app/)
 
 ## Available Scripts
 
