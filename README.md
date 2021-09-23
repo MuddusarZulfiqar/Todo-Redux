@@ -2,7 +2,9 @@
 
 Todo App
 
-## Demo [https://todo-auth-3f9ef.web.app/](https://todo-auth-3f9ef.web.app/)
+## Demo
+
+[https://todo-auth-3f9ef.web.app/](https://todo-auth-3f9ef.web.app/)
 
 # Getting Started with Create React App
 
